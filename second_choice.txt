@@ -1,1 +1,2 @@
 door 1
+what is behind the door?
